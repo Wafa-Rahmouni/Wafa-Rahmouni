@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Wafa-Rahmouni.
-- 👀 I’m interested in Software/Hardware engeneering.
+- 👀 I’m interested in Software/Hardware engineering.
 - 💻 I’m currently studying Computer Science.
 - 📫 How to reach me : wafarahmouni88@gmail.com
 
